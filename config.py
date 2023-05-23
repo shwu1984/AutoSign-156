@@ -76,9 +76,9 @@ SignToken = {
     "tyyp":{
         "switch":True,
         # 账号
-        "username":"",
+        "username":"15605297035",
         # 密码
-        "password":""
+        "password":"Sshwu@1984*"
     },
     # 网易云游戏
     "wyyyx":{
